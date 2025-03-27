@@ -4,7 +4,7 @@ project:
   title:        "Intro_to_ECSE Num_Swithes"      # Project title
   author:       ""      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Three switches as input, with the order of LEDs determining how many switches are on. A MUX was used as an XOR gate."      # One line description of what your project does
+  description:  "Two switches as input, with the order of LEDs determining how many switches are on. A MUX was used as an XOR gate."      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -17,7 +17,7 @@ pinout:
   # Inputs
   ui[0]: "A"
   ui[1]: "B"
-  ui[2]: "C"
+  ui[2]: ""
   ui[3]: ""
   ui[4]: ""
   ui[5]: ""
