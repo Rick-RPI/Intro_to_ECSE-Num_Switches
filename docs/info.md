@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Using an input of two switches, an LED will light up. The chronological order of LEDs (0, 1, 2) determine the number of switches flipped on.
 
 ## How to test
 
-Explain how to use your project
+Flip two switches to produce an output of 0, 1, or 2 switches turned on.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Three LEDs connected at outputs 0, 1, 2.
