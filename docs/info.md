@@ -13,7 +13,7 @@ Using an input of two switches, an LED will light up. The chronological order of
 
 ## How to test
 
-Flip two switches to produce an output of 0, 1, or 2 switches turned on.
+Flip the first two two switches to produce an output of 0, 1, or 2 switches being turned on.
 
 ## External hardware
 
