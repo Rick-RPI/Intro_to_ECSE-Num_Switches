@@ -1,8 +1,8 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     426608768594616321       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  wokwi_id:     426608768594616321    # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "Intro_to_ECSE Num_Swithes"      # Project title
-  author:       ""      # Your name
+  author:       "Rick Przezdziecki"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Two switches as input, with the order of LEDs determining how many switches are on. A MUX was used as an XOR gate."      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
